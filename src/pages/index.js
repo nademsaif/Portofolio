@@ -13,7 +13,6 @@ const Home = () => {
     <Layout>
       <Head>
         <title>Nadeem Saif</title>
-        <link rel="icon" type="image/svg+xml" href="src/assets/briefcase.ico" />
       </Head>
       <Section grid>
         <Hero />

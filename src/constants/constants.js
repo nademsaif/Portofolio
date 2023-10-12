@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'AI Summerizer',
     description:"An AI summerizer website where you can copy a URL of an article or any website content and paste it into this website to get an articulate and smart summerization of the conten of that URL.",
-    image: '/images/3.png',
+    image: '/images/3.PNG',
     tags: ['React', 'JavaScript', 'Redux', 'Vite', 'Tailwindcss'],
     source: 'https://github.com/nademsaif/AI_Summerizer ',
     visit: 'https://ai-summerizer.vercel.app/',
@@ -30,7 +30,7 @@ export const projects = [
   {
     title: 'AutoGo',
     description: "This is a car rental website where you can browse the car that you want to rent by multiple categories, utilizing a car details API and a car images API.",
-    image: '/images/5.png',
+    image: '/images/5.PNG',
     tags: ['NextJS', 'TypeScript', 'Tailwindcss', 'RapidAPI'],
     source: 'https://github.com/nademsaif/Auto-Go',
     visit: 'https://auto-go-five.vercel.app/',
